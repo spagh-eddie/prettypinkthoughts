@@ -1,10 +1,12 @@
-.. mdinclude:: ../../README.md
+Love Notes
+==========
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
+    :caption: Contents:
+    :glob:
 
-   love-notes/index
+    *
 
 Indices and tables
 ==================
