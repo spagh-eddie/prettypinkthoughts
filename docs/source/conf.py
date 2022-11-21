@@ -17,6 +17,7 @@ author = "Eddie Darling"
 
 extensions = [
     "sphinx_rtd_theme",
+    "sphinx_mdinclude",
 ]
 templates_path = ["_templates"]
 
