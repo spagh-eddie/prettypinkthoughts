@@ -1,0 +1,51 @@
+[tool.black]
+target-version = ["py310"]
+
+
+[tool.isort]
+profile = "black"
+force_alphabetical_sort_within_sections = true
+
+
+[tool.mypy]
+python_version = "3.10"
+show_column_numbers = true
+show_error_codes = true
+# don't report errors on files unless we explicitly pass them
+follow_imports = "silent"
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_configs = true
+warn_unused_ignores = true
+warn_unreachable = true
+
+
+[tool.pylint.master]
+load-plugins = [
+    "pylint.extensions.broad_try_clause",
+    "pylint.extensions.check_elif",
+    "pylint.extensions.code_style",
+    "pylint.extensions.consider_ternary_expression",
+    "pylint.extensions.docparams",
+    "pylint.extensions.docstyle",
+    "pylint.extensions.empty_comment",
+    "pylint.extensions.for_any_all",
+    "pylint.extensions.mccabe",
+    "pylint.extensions.overlapping_exceptions",
+    "pylint.extensions.typing",
+]
+
+
+[tool.pylint.messages_control]
+disable = [
+    "invalid-name",
+    "too-few-public-methods",
+    "docstring-first-line-empty",
+    "missing-raises-doc",
+    # formatting-related warnings are ignored; formatting is handled by `black`
+    "line-too-long",
+]
+enable = [
+    "c-extension-no-member",
+    "useless-suppression",
+]
