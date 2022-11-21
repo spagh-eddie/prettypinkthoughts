@@ -5,6 +5,7 @@
    :caption: Contents:
 
    love-notes/index
+   truth-or-dare/index
 
 Indices and tables
 ==================
