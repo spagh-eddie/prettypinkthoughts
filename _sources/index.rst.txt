@@ -6,6 +6,7 @@
 
    love-notes/index
    truth-or-dare/index
+   addenda/index
 
 Indices and tables
 ==================
