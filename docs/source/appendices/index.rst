@@ -1,5 +1,5 @@
-Addenda
-=======
+Appendices
+==========
 
 These are not related to the pretty pink book's annotations but the text itself.
 
