@@ -1,13 +1,12 @@
-.. mdinclude:: ../../README.md
+Genuine Notes
+=============
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :glob:
 
-   love-notes/index
-   genuine-notes/index
-   truth-or-dare/index
-   appendices/index
+   *
 
 Indices and tables
 ==================
