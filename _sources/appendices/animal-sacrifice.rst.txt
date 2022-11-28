@@ -17,3 +17,5 @@ Animal Sacrifices
 .. [#] "a burnt offering [as in Lev 3:6-11]"
 .. [#] "a sin offering [as in Lev 1:14-17]"
 .. [#] "a burnt offering and a sin offering [as in Lev 5:7-10]"
+.. [#] "do with it as he did with the bull's blood [in Lev 16:11-14]"
+.. [#fnLev19:5] "sacrifice a fellowship offering [as in Lev 3]"
