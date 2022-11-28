@@ -5,7 +5,7 @@ I focus mainly on the annotations in the book, not on the content of the NIV its
 However, of course, to discuss the annotations I must also talk about the NIV.
 
 This project is not intended to cause offense to any one or any religion.
-I am neither disclosing my religious views nor any religious affiliation or non-affiliation I may have.
+I am neither disclosing my religious views, nor any religious affiliation or non-affiliation I may have.
 I hope they are irrelevant to the thoughts at hand.
 
 ## the pretty pink book
