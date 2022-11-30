@@ -9,10 +9,3 @@ These are not related to the pretty pink book's annotations but the text itself.
    :glob:
 
    *
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
