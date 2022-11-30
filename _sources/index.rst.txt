@@ -8,9 +8,3 @@
    genuine-notes/index
    truth-or-dare/index
    appendices/index
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`search`
