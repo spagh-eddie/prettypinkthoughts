@@ -21,7 +21,10 @@ extensions = [
     "sphinxcontrib.spelling",
 ]
 templates_path = ["_templates"]
-
+rst_epilog = """
+.. |CC BY 3.0| replace:: CC BY 3.0
+.. _CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
+"""
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
