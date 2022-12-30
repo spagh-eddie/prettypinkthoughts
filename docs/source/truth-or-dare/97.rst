@@ -16,7 +16,7 @@ Commentary
 ----------
 
 While the annotation does provide a good solution, another solution given is to get rid of both the enemy and their livestock.
-Then you wouldn't have to worry about them being angrier.
+Then you would not have to worry about them being angrier.
 
     [Y]\ :spelling:ignore:`ou` must certainly put to the sword all who live in that town [that worships other gods].
     You are to destroy it completely, both its people and its livestock.

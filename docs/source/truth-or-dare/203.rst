@@ -14,6 +14,6 @@ Commentary
 ----------
 
 One can most certainly say that of splinters, but the splinters are a metaphor for people.
-The Truth or Dare supports a literal ethnic cleansing: "drive out the inhabitants... [d]estroy all their carved images... demolish all their high places... [and t]ake possesion of the land" (v. 52-54).
+The Truth or Dare supports a literal ethnic cleansing: "drive out the inhabitants... [d]\ :spelling:ignore:`estroy` all their carved images... demolish all their high places... [and t]\ :spelling:ignore:`ake` possession of the land" (v. 52-54).
 
 Moreover, if the Israelites do not destroy the Canaanites, the Lord threatens "[He] will do to [the Israelites] what [He plans] to do to [the Canaanites]" (v. 56).
