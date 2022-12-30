@@ -1,12 +1,12 @@
 Numbers 23:19
 =============
 
-    ("What did the Lord say?"
-    Then [Balaam] spoke his message:)
+    (Then [Balaam] spoke his message:)
 
-    "God is not human, that he should lie, not a human being, that he should change his mind.
-    Does he speak and then not act?
-    Does he promise and not fulfill?"
+    | "God is not human, that he should lie,
+    | not a human being, that he should change his mind.
+    | Does he speak and then not act?
+    | Does he promise and not fulfill?"
 
 Love Note
 ---------
@@ -24,32 +24,60 @@ Love Note
 Commentary
 ----------
 
-In the preceding chapters, Balaam is asked to go with some men to curse the Israelites.
-Balaam dutifully asks for "the answer the Lord gives" him.
-God says "[d]o not go with them."
-Balaam does not go.
+The book itself does not support this unequivocal portrait:
 
-Later, Balaam is asked again to go with some men to curse the Israelites.
-Balaam reiterates his choice to obey "the command of the Lord my God," saying he won't go even for "all the silver and gold" in the palace.
-But God comes at night and says to "go with them."
+.. figure:: https://upload.wikimedia.org/wikipedia/commons/6/61/Greater_Israel_map.jpg
+   :alt: Map of Genesis 15:18.
+   :width: 80 %
 
-Balaam obeys and leaves the next morning.
-"But God was very angry... and the angel of the Lord stood in the road to oppose him."
-Balaam reconsiders his journey and submissively says "if you are displeased, I will go back."
-But the angel replies "Go with the men."
+   `Map of the possible extent of Israel in Gen 15:18 <https://commons.wikimedia.org/wiki/File:Greater_Israel_map.jpg>`_ by Emmanuelm, |CC BY 3.0|_, via Wikimedia Commons.
 
-In 1 Kings 22:19-23, God summons asks for suggestions about how to convince a king to start a war and be killed.
-One suggests lying to the king.
-God approves of this.
+   .. In Genesis 17:8, the Lord promised "[t]he whole land of Canaan," which is smaller but may be included in the previous tract and is not necessarily a contradiction.
 
-    [T]he Lord said, "Who will entice Ahab into attacking Ramoth Gilead and going to his death there?"
+   In Genesis 15:18, the Lord promised the land "from the Wadi of Egypt\ [#]_ to the great river, the Euphrates\ [#]_."
+   The wording is inexact, but it nevertheless is a large area, covering modern-day Sinai, Israel, Lebanon, and much of Syria.
+   It could also include Jordan and much of Iraq.
 
-    \... a spirit came forward, stood before the Lord, and said, "I will entice him...
-    I will go out and be a deceiving spirit"
+.. figure:: https://upload.wikimedia.org/wikipedia/commons/c/cd/Map_Land_of_Israel.jpg
+   :alt: Map of Numbers 34:1-12.
+   :width: 50 %
 
-    "You will succeed in enticing him," said the Lord.
-    "Go and do it."
+   `Map of the possible extent of Israel in Num 34:1-12 <https://commons.wikimedia.org/wiki/File:Map_Land_of_Israel.jpg>`_ by Emmanuelm, |CC BY 3.0|_, via Wikimedia Commons.
 
-    So now the Lord has put a deceiving spirit in the mouths of all these prophets of yours.
+   However, in Numbers 34:1-12 a much smaller plot of land materializes, covering only modern-day Israel and Lebanon.
 
-Perhaps it may be that one can distinguish between God directly and indirectly lying, but it offers little consolation.
+..
+    In the preceding chapters, Balaam is asked to go with some men to curse the Israelites.
+    Balaam dutifully asks for "the answer the Lord gives" him.
+    God says "[d]o not go with them."
+    Balaam does not go.
+
+    Later, Balaam is asked again to go with some men to curse the Israelites.
+    Balaam reiterates his choice to obey "the command of the Lord my God," saying he won't go even for "all the silver and gold" in the palace.
+    But God comes at night and says to "go with them."
+
+    Balaam obeys and leaves the next morning.
+    "But God was very angry... and the angel of the Lord stood in the road to oppose him."
+    Balaam reconsiders his journey and submissively says "if you are displeased, I will go back."
+    But the angel replies "Go with the men."
+
+    In 1 Kings 22:19-23, God summons asks for suggestions about how to convince a king to start a war and be killed.
+    One suggests lying to the king.
+    God approves of this.
+
+        [T]he Lord said, "Who will entice Ahab into attacking Ramoth Gilead and going to his death there?"
+
+        \... a spirit came forward, stood before the Lord, and said, "I will entice him...
+        I will go out and be a deceiving spirit"
+
+        "You will succeed in enticing him," said the Lord.
+        "Go and do it."
+
+        So now the Lord has put a deceiving spirit in the mouths of all these prophets of yours.
+
+    Perhaps it may be that one can distinguish between God directly and indirectly lying, but it offers little consolation.
+
+.. rubric:: Footnotes
+
+.. [#] Scholars debate if this means the Nile or something further east.
+.. [#] Scholars debate if this means the Euphrates or something further south.
