@@ -4,6 +4,6 @@ Love Notes
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
-   :glob:
 
-   *
+   151
+   176
