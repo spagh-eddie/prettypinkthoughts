@@ -7,7 +7,7 @@
 .reference.internal {
     color: #ff8bc5;
 }
-h1, h2, h3, h4{
+h1, h2, h3, h4, .rubric {
     color: #FF007F;
 }
 .wy-table-responsive table td, .wy-table-responsive table th {
