@@ -34,7 +34,7 @@ The book itself does not support this unequivocal portrait:
 
    .. In Genesis 17:8, the Lord promised "[t]he whole land of Canaan," which is smaller but may be included in the previous tract and is not necessarily a contradiction.
 
-   In Genesis 15:18, the Lord promised the land "from the Wadi of Egypt\ [#]_ to the great river, the Euphrates\ [#]_."
+   In Genesis 15:18\ [#]_, the Lord promised the land "from the Wadi of Egypt\ [#]_ to the great river, the Euphrates\ [#]_."
    The wording is inexact, but it nevertheless is a large area, covering modern-day Sinai, Israel, Lebanon, and much of Syria.
    It could also include Jordan and much of Iraq.
 
@@ -79,5 +79,6 @@ The book itself does not support this unequivocal portrait:
 
 .. rubric:: Footnotes
 
+.. [#] See also :ref:`the appendix <appendices/promises-to-abraham:land>` on promises of land.
 .. [#] Scholars debate if this means the Nile or something further east.
 .. [#] Scholars debate if this means the Euphrates or something further south.

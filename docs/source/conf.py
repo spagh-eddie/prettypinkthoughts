@@ -16,6 +16,7 @@ author = "Eddie Darling"
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
+    "sphinx.ext.autosectionlabel",
     "sphinx_rtd_theme",
     "sphinx_mdinclude",
     "sphinxcontrib.spelling",
@@ -25,6 +26,7 @@ rst_epilog = """
 .. |CC BY 3.0| replace:: CC BY 3.0
 .. _CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
 """
+autosectionlabel_prefix_document = True
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
